@@ -2,5 +2,9 @@
     "title":"Lruri的blog",
     "subTitle":"文章列表",
     "avatarUrl":"https://avatars.githubusercontent.com/u/144910229?v=4",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "startSite":"08/05/2025",
+    "bottomText":"转载请注明出处",
+    "onePageListNum":15,
+    "exlink":{"bbs":"https://bbs.lruriawa.top"},
 }
